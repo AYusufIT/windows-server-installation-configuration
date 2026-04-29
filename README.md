@@ -32,7 +32,7 @@ The project included full OS installation, partitioning, initial server setup, s
 
 (Warning!!: Do NOT install Windows Server on your physical machine/disk! It will overwrite the entire physical disk, erase all data on the disk, and replace the Windows version you have there!)
 
-If you have gone throught the steps i outlined in https://github.com/AYusufIT/virtualbox-vm-setup-windows-server.  The Windows Server installer will automatically start from the ISO file after the virtual machine starts. (Do NOT open the ISO file or double-click it!)
+If you have gone through the steps i outlined in https://github.com/AYusufIT/virtualbox-vm-setup-windows-server.  The Windows Server installer will automatically start from the ISO file after the virtual machine starts. (Do NOT open the ISO file or double-click it!)
 
 You will first see a black screen and the installer will load boot files from the ISO image.
 Once the installer has loaded, you will be prompted to enter the following:
